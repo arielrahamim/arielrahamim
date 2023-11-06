@@ -22,7 +22,7 @@ I'm genuinely passionate about DevOps principles and the power of automation, es
   <h3>🌟 Let's Connect!</h3>
   <p>Beyond the tech realm, you can often find me gaming my way through exciting virtual worlds and escaping into the captivating stories of manga. Let's connect, collaborate, and geek out over DevOps, cloud tech, gaming, or any other fascinating topic that ignites our interest!</p>
 
-  <h3>📫 Connect with Me</h3>
+  <h3></h3>
   <a href="https://www.linkedin.com/in/ariel-rahamim/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
   <a href="mailto:rahamimariel@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/email.png"/></a>
 </div>
