@@ -9,9 +9,9 @@
 
 🐳 Exploring the world of containers and mastering Docker to containerize applications for easier deployment and scaling.
 
-☁️ Achieved AWS Certified Solutions Architect Associate certification in cloud computing.
+☁️ Achieved AWS Certified Solutions Architect Associate (SAA)
 
-🚀 Certified Kubernetes Administrator (CKA) - Navigating the Kubernetes universe.
+🚀 Achieved Certified Kubernetes Administrator (CKA) - Navigating the Kubernetes universe.
 
 🔄 Building and optimizing CI/CD pipelines to accelerate software delivery, streamlining the development process and ensuring reliable, consistent deployments.
 
